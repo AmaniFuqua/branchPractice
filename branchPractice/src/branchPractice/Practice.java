@@ -7,6 +7,7 @@ public class Practice
 			{
 				// TODO Auto-generated method stub
 				System.out.println("master branch");
+				System.out.println("I love Fred");
 			}
 
 	}
